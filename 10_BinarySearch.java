@@ -46,7 +46,7 @@ public class BinarySearch {
 
          // output for user 
  
-         if(result == 0){
+         if(result == -1){
              System.out.println("The Enter Target element is not Present in the Given Array");
                  }
                  else{
